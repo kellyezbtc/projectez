@@ -1,0 +1,1 @@
+ALTER TABLE  `wires_send_tb` ADD  `wa_date` DATE NOT NULL
